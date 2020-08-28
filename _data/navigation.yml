@@ -1,12 +1,38 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+#   - title: "About"
+#     url: /about/
+#   - title: Recents
+#     url: /
+   - title: "Categories"
+     url: /categories/
+   - title: "Monthly"
+     url: /month-archive/
+  #  - title: "Portfolio"
+  #    url: /portfolio/
+   - title: "Tags"
+     url: /tags/
+
+posts:
+  - title: Programming
+    children:
+      - title: "Java"
+        url: /categories/#java
+      - title: "Python"
+        url: /categories/#python
+      - title: "Hadoop"
+        url: /categories/#hadoop
+      - title: "NoSQL"
+        url: /categories/#nosql
+      - title: "Database"
+        url: /categories/#database
+      - title: "Linux"
+        url: /categories/#linux
+      - title: "Etc"
+        url: /categories/#etc
+  - title: DataScience
+    children:
+      - title: "Study"
+        url: /categories/#study
+      - title: "Kaggle"
+        url: /categories/#kaggle

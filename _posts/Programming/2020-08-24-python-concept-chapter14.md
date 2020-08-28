@@ -11,6 +11,7 @@ tags:
   - 파일 열기 
 sidebar:
   nav: posts
+comment: true
 
 ---
 
