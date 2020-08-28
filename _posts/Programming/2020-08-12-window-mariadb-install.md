@@ -6,7 +6,7 @@ last_modified_at: 2020-08-12T11:00:00+09:00
 toc: true
 toc_sticky: true
 toc_label: "목차"
-comments : true
+comments: true
 tags:
   - MariaDB
   - Window 
