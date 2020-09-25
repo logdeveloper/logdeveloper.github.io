@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="694d56ed-68ec-49af-b24e-dd458b817356" name="Default Changelist" comment="udpate config" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fNwQtMUeeI0jcEkVomRqi1fxAm" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_drafts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study-github\_posts\DataScience" />
+      <recent name="D:\study-github\assets\images" />
+      <recent name="D:\study-github\_posts\Programming" />
+      <recent name="D:\study-github\_posts\Java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study-github\_drafts" />
+      <recent name="D:\study-github\_drafts\spc-chart" />
+      <recent name="D:\study-github\assets\images" />
+      <recent name="D:\study-github\_posts\Programming" />
+      <recent name="D:\study-github\_posts\DataScience" />
+    </key>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="694d56ed-68ec-49af-b24e-dd458b817356" name="Default Changelist" comment="" />
+      <created>1596071844130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596071844130</updated>
+      <workItem from="1596071846784" duration="10289000" />
+      <workItem from="1596161362948" duration="842000" />
+      <workItem from="1597129792461" duration="7667000" />
+      <workItem from="1597370625078" duration="1108000" />
+      <workItem from="1598236327631" duration="2618000" />
+    </task>
+    <task id="LOCAL-00001" summary="add timezone">
+      <created>1596073836921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596073836921</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore site 폴더 추가">
+      <created>1596073858915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596073858915</updated>
+    </task>
+    <task id="LOCAL-00003" summary="화면 최적화">
+      <created>1596076770457</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596076770457</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sitemap 추가">
+      <created>1596077108479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596077108479</updated>
+    </task>
+    <task id="LOCAL-00005" summary="자잘구리 추가">
+      <created>1596077133351</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596077133351</updated>
+    </task>
+    <task id="LOCAL-00006" summary="old post 추가">
+      <created>1596083654185</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596083654185</updated>
+    </task>
+    <task id="LOCAL-00007" summary="about 삭제">
+      <created>1596083779618</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596083779618</updated>
+    </task>
+    <task id="LOCAL-00008" summary="글씨체 변경">
+      <created>1596085895302</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596085895302</updated>
+    </task>
+    <task id="LOCAL-00009" summary="글씨체 라이브러리 추가">
+      <created>1596085946365</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596085946365</updated>
+    </task>
+    <task id="LOCAL-00010" summary="chapter4 post 추가">
+      <created>1596161496984</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596161496984</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add python concept post">
+      <created>1597135295573</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597135295573</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add python update column">
+      <created>1597135338675</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1597135338675</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add hapdoop post">
+      <created>1597135357108</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1597135357108</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add python json load">
+      <created>1597136945711</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1597136945711</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add orelly ch5 posts">
+      <created>1597136983923</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1597136983923</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add orelly ch5 posts image">
+      <created>1597138523131</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1597138523131</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add python flask simple example">
+      <created>1597138549668</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1597138549668</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add orelly data science ch6">
+      <created>1597371655593</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1597371655593</updated>
+    </task>
+    <task id="LOCAL-00019" summary="udpate config">
+      <created>1598237268453</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1598237268453</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add timezone" />
+    <MESSAGE value="gitignore site 폴더 추가" />
+    <MESSAGE value="화면 최적화" />
+    <MESSAGE value="sitemap 추가" />
+    <MESSAGE value="자잘구리 추가" />
+    <MESSAGE value="old post 추가" />
+    <MESSAGE value="about 삭제" />
+    <MESSAGE value="글씨체 변경" />
+    <MESSAGE value="글씨체 라이브러리 추가" />
+    <MESSAGE value="chapter4 post 추가" />
+    <MESSAGE value="add python concept post" />
+    <MESSAGE value="add python update column" />
+    <MESSAGE value="add hapdoop post" />
+    <MESSAGE value="add python json load" />
+    <MESSAGE value="add orelly ch5 posts" />
+    <MESSAGE value="add orelly ch5 posts image" />
+    <MESSAGE value="add python flask simple example" />
+    <MESSAGE value="add orelly data science ch6" />
+    <MESSAGE value="udpate config" />
+    <option name="LAST_COMMIT_MESSAGE" value="udpate config" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1379" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597130130048">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1379" y="310" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597130130048" />
+    <state x="244" y="30" width="1128" height="794" key="CommitChangelistDialog2" timestamp="1598238224304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1410" y="21" width="1410" height="997" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597371653106" />
+    <state x="510" y="21" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596161494565" />
+    <state x="244" y="30" width="1128" height="794" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598238224304" />
+    <state x="15" y="443" width="1376" height="296" key="DiffContextDialog" timestamp="1598237255018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="19" y="92" width="1720" height="840" key="DiffContextDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597136958573" />
+    <state x="15" y="94" key="DiffContextDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596161435951" />
+    <state x="15" y="443" width="1376" height="296" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1598237255018" />
+    <state x="-1181" y="261" key="FileChooserDialogImpl" timestamp="1597130201448">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1181" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597130201448" />
+    <state x="-1920" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1597138476917">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="0" key="FileDocumentManager.FileCacheConflict/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597138476917" />
+    <state width="1904" height="280" key="GridCell.Tab.0.bottom" timestamp="1596095690544">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="280" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1596095690544" />
+    <state width="1904" height="280" key="GridCell.Tab.0.center" timestamp="1596095690543">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="280" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1596095690543" />
+    <state width="1904" height="280" key="GridCell.Tab.0.left" timestamp="1596095690543">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="280" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1596095690543" />
+    <state width="1904" height="280" key="GridCell.Tab.0.right" timestamp="1596095690543">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="280" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1596095690543" />
+    <state x="352" y="0" key="SettingsEditor" timestamp="1598236669144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1480" y="94" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597371361331" />
+    <state x="352" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598236669144" />
+    <state width="615" height="445" key="SwitcherDM" timestamp="1597138420961">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="615" height="445" key="SwitcherDM/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597138420961" />
+    <state x="442" y="197" key="Vcs.Push.Dialog.v2" timestamp="1598237273095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1368" y="249" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597371665164" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596161503284" />
+    <state x="442" y="197" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598237273095" />
+    <state x="-1276" y="244" width="632" height="552" key="find.popup" timestamp="1597136986157">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1276" y="244" width="632" height="552" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597136986157" />
+    <state x="2" y="0" key="new project wizard" timestamp="1598408474386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1598408474386" />
+    <state x="470" y="181" width="754" height="538" key="search.everywhere.popup" timestamp="1598237259458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1332" y="229" width="741" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597371352932" />
+    <state x="470" y="181" width="754" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598237259458" />
+  </component>
+</project>
