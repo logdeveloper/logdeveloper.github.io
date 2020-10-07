@@ -1,0 +1,60 @@
+# 전제
+- DP가 Rawdata를 Kafka에 송신
+	- Rawdata : 가공하지 않은 json 타입의 newdata
+	
+- Kafka는 7일동안 데이터 보관
+	- 보관주기 기본 7일
+
+# 시나리오 1. UI, SPC Server 
+1. SPC 알고리즘 실행 요청 (`UI`(사용자) -> `SPC Server`)
+	1) 모듈간 RestAPI 처리
+	2) 사용 파라미터 
+		① Dcp 정보 : plan_id, trace_id, context_info
+		② 시간 정보 : from_date, to_date
+		③ 파싱 정보 : unit(ex: wafer), requestparameter(ex: nelson rule에 적용할 파라미터 index)
+	
+
+2. `SPC Server`가 plan_id(key)기준으로 `kafka`에서 데이터 추출.
+	1) kafka 토픽 운영방식
+		- topic name : newdata
+		- 모든 Rawdata 하나의 토픽에 저장
+		- plan_id 기준으로 데이터 관리
+			- 추출 시간이 오래 걸린다면, plan_id+시간정보 key값 설정 고려
+
+3. `kafka`에서 추출한 데이터를 `SPC Server`에서 가공
+	1) 가공 작업
+		① 시간 기준으로 데이터 추출
+		② mariadb 에서 parameter 관련 테이블 정보를 가져옴
+		③ 파라미터 컬럼을 text/numeric type으로 데이터 타입 분리
+		④ 사용자 정의 unit(ex: wafer) 기준으로 min/max/mean/std 기초통계 값 처리
+			- nelson rule에 적용한다면, mean 값만 필요.
+	2) SPC 알고리즘 적용
+		- ex) Nelson Rule일 경우 
+			25개 wafer의 mean 값을 Nelson Rule의 8가지 법칙에 적용하여 T/F 값 반환
+
+4. SPC 알고리즘 적용한 결과 전송(`SPC Server` -> `UI`)
+	1) 모듈간 RestAPI 처리 
+	2) 사용 파라미터 
+		① Result_Set : json 타입 SPC 알고리즘 적용 결과 
+		② Data_description : dcp info, 사용한 rawdata 총 갯수, 처리 시간 등..
+
+
+# 시나리오 2. UI, SPC Server, DP
+
+
+
+# 토의 사항
+- 카프카 보관주기 
+	- 기본 7일, 기간 몇일로 설정?
+
+- 카프카 보관주기 이후의 데이터 관리
+	- 방법1. 사전에 Cassandra와 Kafka 동시에 Newdata 전송 및 저장
+		- 용도 
+			- Cassandra : 누적 데이터 처리용.
+			- Kafka : 실시간 데이터 처리용. 
+	- 방법2. kafka 보관주기 이후 데이터는 Cassandra에 저장
+		- kafka connect 활용(30일만 무료. 유료서비스로 판단됨.)
+	
+	
+# 용어
+- DP : Data-Processor

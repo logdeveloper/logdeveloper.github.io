@@ -16,12 +16,12 @@ tags:
   - hdfs 초기 설정
 sidebar:
   nav: posts
+
 ---
 
 ##  현상
 
-sidebar_main: true
-search: true
+
 
 hdfs 명령어로 namenode format 진행시, 발생한 문제이다. 
 
